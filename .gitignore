@@ -185,5 +185,12 @@ FakesAssemblies/
 
 # LightSwitch generated files
 GeneratedArtifacts/
-_Pvt_Extensions/
+_Pvt_Extensions/ 
 ModelManifest.xml
+
+# Ignore .vs folder
+*/.vs
+/.vs/mynewweb/v15/Server/sqlite3/storage.ide-wal
+/.vs/mynewweb/v15/Server/sqlite3/storage.ide-shm
+/.vs/mynewweb/v15/Server/sqlite3/storage.ide
+/.vs/mynewweb/v15/Server/sqlite3/db.lock

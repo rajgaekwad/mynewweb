@@ -25,6 +25,15 @@
         <p>        
             Use this area to provide additional information.
         </p>
+
+        <h3>Aside Title</h3>
+        <p>        
+            Use this area to provide additional information.
+        </p>
+        <h3>Aside Title</h3>
+        <p>        
+            Use this area to provide additional information.
+        </p>
         <ul>
             <li><a runat="server" href="~/">Home</a></li>
             <li><a runat="server" href="~/About">About</a></li>
