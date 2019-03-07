@@ -20,6 +20,20 @@
         </p>
     </article>
 
+    <article>
+        <p>        
+            Use this area to provide additional information.
+        </p>
+
+        <p>        
+            Use this area to provide additional information.
+        </p>
+
+        <p>        
+            Use this area to provide additional information.
+        </p>
+    </article>
+
     <aside>
         <h3>Aside Title</h3>
         <p>        
