@@ -24,6 +24,24 @@
         <header>
             <h3>Email:</h3>
         </header>
+
+        <header>
+            <h3>Phone:</h3>
+        </header>
+        <p>
+            <span class="label">Main:</span>
+            <span>425.555.0100</span>
+        </p>
+        <p>
+            <span class="label">After Hours:</span>
+            <span>425.555.0199</span>
+        </p>
+    </section>
+
+    <section class="contact">
+        <header>
+            <h3>Email:</h3>
+        </header>
         <p>
             <span class="label">Support:</span>
             <span><a href="mailto:Support@example.com">Support@example.com</a></span>
