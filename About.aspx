@@ -16,8 +16,9 @@
         </p>
 
         <p>        
-            Use this area to provide additional information.
-            Sandeep
+            Use this area to provide additional information.<br />
+            Sandeep<br />
+            Raghu
         </p>
     </article>
      <article>
